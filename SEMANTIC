@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <h1>MY LOGO</h1>
+        <ul>
+            <li>home</li>
+            <li>about</li>
+            <li>content</li>
+        </ul>
+    </nav>
+    <header>
+        <h2>welcome to semantic</h2>
+        <p>tools helps you promote mental well being for your employees to help you promote mental well being for your employee</p>
+   <button>getmore</button>
+    </header>
+    <main>
+        <figure>
+            <img src="https://tse2.mm.bing.net/th/id/OIP.7cRYFyLoDEDh4sRtM73vvwHaDg?pid=Api&P=0&h=180" alt="" height="100">
+            <figcaption>mountain</figcaption>
+        </figure>
+
+        <section>
+            <aside>
+                <article>
+                    <h2>i am from left</h2>
+                </article>
+
+            </aside>
+            <aside>
+                <article>
+                    <h2>i am from right</h2>
+                </article>
+            </aside>
+        </section>
+        <section>
+            <details>
+                <summary>html</summary>
+                <p>tools ara the promote</p>
+            </details>
+        </section>
+        <footer>
+            <p>we😂💕 </p>
+        </footer>
+    </main>
+</body>
+</html>
