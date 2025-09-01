@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<b>balaji</b>
+<br>
+
+<strong>balaji</strong><br>
+<i>balaji</i><br>
+<em>makes content italic</em><br>
+<h2>
+    <u>balaji</u><br>
+    <ins>balaji</ins><br>
+    <strike>strike</strike><br>
+    <q>qutaions</q><br>
+    <mark>hi </mark><br>
+    <sup>hi rey</sup><br>
+    <sub>hi rey</sub><br>
+    <pre>
+        line 1
+        line 2
+    </pre>
+
+    </h2>
+<p>hi it is paragraph</p>
+
+</body>
+</html>
