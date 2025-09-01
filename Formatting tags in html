@@ -27,6 +27,19 @@
 
     </h2>
 <p>hi it is paragraph</p>
+<h1>hi this is heading 1</h1>
+    <b>this is bold</b>
+    <i>this is italic </i>
+    <im>this is underline</im>
+    <u>this is also underline</u>
+    <del>this is strike</del>
+    <strike>this is also for striking</strike>
+    <q>this will apear in qutations</q>
+    <mark>this tag hilights the text</mark>
+    <big>this increases the size</big>
+    <small>this decreases the size</small>
+    <sup>a2b2</sup>
+    <sub>a2b2</sup>
 
 </body>
 </html>
