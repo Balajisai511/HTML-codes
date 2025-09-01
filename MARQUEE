@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAWQUEE TA</title>
+</head>
+<body>
+</body>
+<h1>marquee in html</h1>
+    <marquee behavior="" direction="up" scrollamount="20">
+        <img src="https://i.pinimg.com/originals/94/4f/2b/944f2b6b85eecb4e870f7f9a9cf9c793.gif" alt=""height="120"
+    </marquee>
+
+    <marquee behavior="" loop="3" direction="down" scrollamount="10">`
+        <img src="https://media.tenor.com/afqzmTZZPRsAAAAM/lfg-lets-go.gif"
+    </marquee>
+
+
+  
+   
+
+    
+</body>
+</html>
