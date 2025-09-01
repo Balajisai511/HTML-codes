@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tables</title>
+</head>
+<body>
+    <h1>Tables in html</h1>
+    <table border="1" width="500" cellspacing="5" cellpadding="10">
+        <caption>
+        <b>Employee Table</b></caption>
+        <tr>
+            <th>Eid</th>
+            <th>Ename</th>
+            <th>Salary</th>
+            <th>Location</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Rohit</td>
+            <td>45</td>
+            <td>Mumbai indians</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>gill</td>
+            <td>77</td>
+            <td>Gujarat titans</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Virat kohli</td>
+            <td>18</td>
+            <td>Royal Challengers Bangalore</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Shreyas Iyer</td>
+            <td>96</td>
+            <td>Punjab Kings</td>
+        </tr>
+
+    </table>
+</body>
+</html>
